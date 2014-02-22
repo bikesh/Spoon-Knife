@@ -1,3 +1,4 @@
 new work command
 line 2
 line 3
+branch line 4
